@@ -96,6 +96,8 @@ var blockedPatterns = []string{
 	"mb_ereg_replace",
 	"file_put_contents",
 	"\\?input=<script>",
+	"1=1",
+	"=",
 }
 
 func init() {
