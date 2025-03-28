@@ -1,5 +1,9 @@
 # GinWAF - Web Application Firewall Middleware for Gin
 
+![Go Version](https://img.shields.io/github/go-mod/go-version/wprimadi/gin-waf)
+![License](https://img.shields.io/github/license/wprimadi/gin-waf)
+![Stars](https://img.shields.io/github/stars/wprimadi/gin-waf?style=social)
+
 GinWAF is a Web Application Firewall (WAF) middleware for the Gin web framework. It helps protect your application from malicious requests by blocking suspicious patterns, enforcing rate limits, and filtering requests based on IP addresses and User-Agent headers.
 
 ## Features
